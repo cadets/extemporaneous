@@ -1,0 +1,18 @@
+[package]
+name = "extemp"
+version = "0.1.0"
+authors = ["Jonathan Anderson <jonathan.anderson@ieee.org>"]
+license = "Apache-2.0 OR MIT"
+description = "A library for processing temporal automata"
+build = "run-cheddar.rs"
+
+[build-dependencies]
+rusty-cheddar = "0.3.0"
+
+[dependencies]
+bit-set = "0.4.0"
+docopt = "0.6.80"
+libc = "0.2.11"
+multimap = "0.3.0"
+regex = "0.1.71"
+rustc-serialize = "0.3.19"
