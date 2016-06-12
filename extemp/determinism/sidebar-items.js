@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["IntoDFA","Trait for converting an NFA into a DFA"]]});
