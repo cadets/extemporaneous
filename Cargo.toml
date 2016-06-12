@@ -16,3 +16,7 @@ libc = "0.2.11"
 multimap = "0.3.0"
 regex = "0.1.71"
 rustc-serialize = "0.3.19"
+
+[[bin]]
+doc = false
+name = "extemp"
