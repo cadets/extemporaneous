@@ -4,6 +4,9 @@ version = "0.1.0"
 authors = ["Jonathan Anderson <jonathan.anderson@ieee.org>"]
 license = "Apache-2.0 OR MIT"
 description = "A library for processing temporal automata"
+documentation = "https://cadets.github.io/extemporaneous/extemp"
+repository = "https://github.com/cadets/extemporaneous"
+readme = "README.md"
 build = "run-cheddar.rs"
 
 [build-dependencies]
